@@ -341,7 +341,7 @@ const InvoiceForm: React.FC<InvoiceFormProps> = ({ invoiceMemoToLoad, onSaveSucc
                 {/* Header */}
                 <div className="flex justify-between items-center border border-gray-400 p-2">
                     <div className="flex items-center">
-                        <img src="https://yo.fan/cdn/media-store%2Fpublic%2FOQcIlej0eQWI7C5URGLGQyDjTUk2%2Fde497828-75aa-4a76-8f9b-801016ba98b1%2F794-450.jpg" alt="SBT Transport Logo" className="h-24 w-auto mr-4"/>
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFY6OA_-B3xK_AfiNz8lGz87LIZIg9LxoslTBZtsl22lvtsG-zdRDyveJXTWCdNC9T3tKsmpjVOnN1zpEJhE97MD0J3zEN2MQ5ozlwXZkfbGOQAiZfEaw_KbWMF74rCDZD5E2wsqrkuZpwXIsELOMuqizXvIFs65ViFGdGqFuE9QpURT4jve_hr8K714M/s794/sbt%20logo.jpg" alt="SBT Transport Logo" className="h-24 w-auto mr-4"/>
                         <div>
                             <h1 className="text-xl font-bold text-blue-700">SRI BALAJI TRANSPORT</h1>
                             <p className="text-xs font-bold">NO:3/96, Kumaran Kudil Annex 3rd Street, Thuraipakkam, Chennai-97</p>
